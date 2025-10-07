@@ -1,0 +1,25 @@
+# requirements.txt
+
+# ML & Data
+torch 
+torchvision
+opencv-python-headless
+numpy
+scikit-learn
+pycocotools
+tensorflow_datasets
+
+# Data Versioning
+dvc[gs] # Using Google Drive for free remote storage
+
+# Backend & Server
+fastapi
+uvicorn[standard]
+python-multipart # For file uploads
+
+# Frontend
+streamlit
+requests
+
+# Cloud Deployment
+google-cloud-storage
