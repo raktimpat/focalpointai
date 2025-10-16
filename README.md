@@ -6,10 +6,16 @@ I created two full versions to show how a project can evolve with more advanced 
 
 ➡️ View the [Live Demo](https://focal-point-ai-rkt.streamlit.app/) Here! 
 
-What it Looks Like![view](https://github.com/user-attachments/assets/1c750b24-5a2f-443c-917c-012dc0fef0a6)
+What it Looks Like!
+
+[view](https://github.com/user-attachments/assets/1c750b24-5a2f-443c-917c-012dc0fef0a6)
 
 
-(I recommend using a tool like Giphy Capture or Kap to create a short GIF of you using the app and putting it here.)
+
+
+
+
+
 
 ✨ Features
 
