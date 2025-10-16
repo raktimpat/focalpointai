@@ -1,12 +1,13 @@
-🤖 FocalPoint AI: An End-to-End Smart Image Editor
+🤖 FocalPoint AI: An Smart Image Editor
 
 Hello! This is my portfolio project where I built a complete Machine Learning application from scratch. It's a web-based tool that uses AI to apply cool effects to images, like removing the background or anonymizing people.
 
 I created two full versions to show how a project can evolve with more advanced requirements!
 
-➡️ View the Live Demo Here! (You'll replace this with your actual deployment URL)
+➡️ View the [Live Demo](https://focal-point-ai-rkt.streamlit.app/) Here! 
 
-What it Looks Like
+What it Looks Like![view](https://github.com/user-attachments/assets/1c750b24-5a2f-443c-917c-012dc0fef0a6)
+
 
 (I recommend using a tool like Giphy Capture or Kap to create a short GIF of you using the app and putting it here.)
 
@@ -47,8 +48,6 @@ Cloud & Deployment: Google Cloud Platform (Cloud Run, Artifact Registry) & Strea
 Core Language: Python 3.11
 
 🚀 Getting Started Locally
-
-Want to run this on your own machine? Here's how:
 
 Prerequisites:
 
@@ -98,8 +97,6 @@ source venv/bin/activate
 streamlit run frontend.py
 
 
-Your web browser should open with the app running locally and communicating with your backend server.
-
 ☁️ Deployment Architecture
 
 This project uses a modern microservice architecture:
@@ -120,9 +117,9 @@ Optimizing for Deployment: The default PyTorch library is huge! My first Docker 
 
 💡 Future Ideas
 
-Add more effects like "Cartoonify" or "Grayscale Background".
+Adding more effects like "Cartoonify" or "Grayscale Background".
 
-Allow users to upload their own custom backgrounds.
+Allowing users to upload their own custom backgrounds.
 
 Cache model predictions to make reapplying different effects to the same image instantaneous.
 
